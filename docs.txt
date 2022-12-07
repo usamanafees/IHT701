@@ -1,0 +1,2 @@
+php artisan websockets:serve
+php artisan queue:listen

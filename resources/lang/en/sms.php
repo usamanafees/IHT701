@@ -1,0 +1,157 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Menu Language Lines
+    |--------------------------------------------------------------------------
+    |
+    |
+    */
+    'add_sms' => 'Add SMS',
+    'edit_sms' => 'Edit SMS',
+    'mobile'   => 'Mobile No.',
+    'Message'  => 'Message',
+    'Send_sms' => 'Send SMS',
+    'sms_list' => 'SMS List',
+    'sms_listAll' => 'SMS List All',
+    'apiLogs' => 'API Logs',
+    'action' => 'Action',
+
+    'sms_id' => 'SMS ID',
+    'client_id' => 'Client ID',
+    'client' => 'Client',
+    'operator' => 'Operator',
+    'channel' => 'Channel',
+    'state' => 'State',
+    'hours' => 'Hours',
+    'sender' => 'Sender',
+    'mobile_num' => 'Mobile number',
+    'date' => 'Date',
+    'cost_charged' => 'Cost Charged (€)',
+    'commission_cost' => 'Cost Commission (€)',
+   
+   'Sender' => 'Sender',
+   'State'  => 'State',
+   'Entry_Date'  => 'Entry Date',
+   'Expiration_Date'  => 'Expiration Date',
+
+   'add_sender' => 'Add Sender',
+   'new_sender' => 'New Sender',
+
+   'Templates' => 'Templates',
+   'name' => 'Name',
+   'template' => 'Template',
+
+   'add_template' => 'Add Template',
+   'new_template' => 'New Template',
+   'edit_template' => 'Edit Template',
+
+   'personalized_your_sms' => 'Personalize your SMS messages by creating an alphanumeric sender name.',
+   'add_sender_note' => 'NOTE: € 5.00 will be charged to your account for each created sender.',
+
+    'Save' => 'Save',
+    'Update' => 'Update',
+    'update_template' => 'Update Template',
+
+    'add_sms_provider' => 'Add SMS Provider',
+    'sms_provider' => 'SMS Provider',
+    'sms_details' => 'SMS Details',
+    'admin_comment' => 'Admin Comment',
+    'id_sms_provider' => 'ID SMS Provider',
+    'provider' => 'Provider',
+    'start_date' => 'StartDate',
+    'hh' => 'HH',
+    'mm' => 'MM',
+    'noinfo'=> 'No Info',
+    'id_sms_operator' => 'ID SMS Operator',
+    'entry_date' => 'Entry Date',
+    'check_status' => 'Check SMS Status',
+    'send_date' => 'Send Date',
+
+    'filter' => 'Select a Time Period',
+    'today' => 'Today',
+    'yesterday' => 'Yesterday',
+    'this_week' => 'This Week',
+    'last_week' => 'Last Week',
+    'this_month' => 'This Month',
+    'last_month' => 'Last Month',
+    'before_last_month' => 'Before Last Month',
+    'last_qarter' => 'Last Quarter',
+    'last_half' => 'Last Half ',
+    'this_year' => 'This year',
+    'last_year' => 'Last year',
+    'select_date' => 'Select date',
+    'all' => 'Since Always',
+    'Update_filter' => 'Update Filter',
+    'start_date' => 'Select Start Date',
+    'end_date' => 'Select End Date',
+    'fullresponse' => 'API Response',
+    'status' => 'Status',
+    'api_id' => 'API ID',
+    'sms_request_details' => 'Request Details',
+    'request' => 'Request',
+    'response' => 'Response',
+    'ip' => 'IP',
+    'sms_response_details' => 'Response Details',
+    'user' => 'User',
+
+    'select_provider' => 'Select the Service Provider',
+    'twilio_client_id' => 'Twilio Client ID(ACCOUNT SID)',
+    'twilio_secret_token' => 'Twilio Secret Token(Auth Token)',
+    'twilio_number' => 'Twilio Number',
+    'mob_prefix' => 'Mob. Prefix',
+    'nexmo_client_id' => 'Nexmo Client ID',
+    'nexmo_client_secret' => 'Nexmo Client Secret',
+    'ez4u_account_id' => 'EZ4U Account ID',
+    'ez4u_licensekey' => 'EZ4U Licensekey(API Key)',
+    'ez4u_url' => 'EZ4U URL',
+    'saved_service_provider' => 'Saved SMS Service Provider',
+
+    'Account_id' => 'Account ID',
+    'license_key' => 'License Key -API Key',
+    'client_secret' => 'Client Secret',
+
+    'balance_insufficent' => 'Your Account Balance is insufficient. please recharge your account to create new sender.',
+    'recharge' => 'Click here to recharge',
+    'approve' => 'Approve',
+    'disapprove' => 'disapprove',
+    'edit_sender' => 'Edit Sender',
+    'wait' => 'Please wait',
+    'ballance_null' => 'Your Account Balance is 0. please recharge your account to send SMS.',
+    'select_code' => 'Select Code',
+    'number_no_code' => 'Write Number without code',
+    'select_sender' => 'Select Sender',
+    'select_template' => 'Select Template',
+    'bulk_add' => 'Bulk Add',
+    'saved_sms_template' => 'Save SMS as Template',
+    'sms_schedule' => 'SMS Schedule',
+
+    'api_calls' => 'API Calls',
+    'yesterday_today' => 'Yesterday / Today',
+    'create_sender' => 'Create Sender',
+    'add_payment' => 'Add Payment',
+    'sms_submit' => 'SMS SUBMIT',
+    'contact_client' => 'Contact Client',
+    'note' => 'NOTE: €',
+    'note_text' => 'will be charged to your account for each created sender',
+    'offer' => 'Offer Sender',
+    'sender_id' => 'Sender Id',
+    'approve_disapprove' => 'Approve/Disapprove',
+    'close' => 'Close',
+    
+    'view_all' => 'View All',
+    'sms_table' => 'SMS Table',
+    'sms_sent' => 'SMS´s Sent',
+    'cost_rate' => 'Cost SMS Rate',
+    'balance' => 'Balance',
+
+    'payment_methods' => 'Payment Methods',
+    'select_type' => 'Select Type',
+    'value' => 'Value',
+    'insert' => 'Insert',
+
+    'select_action' => 'Select Action'
+
+];
